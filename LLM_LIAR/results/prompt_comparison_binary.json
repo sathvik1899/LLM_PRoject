@@ -1,0 +1,62 @@
+{
+  "basic": {
+    "metrics": {
+      "accuracy": 0.56,
+      "precision": 0.5714285714285714,
+      "recall": 0.3333333333333333,
+      "f1": 0.42105263157894735
+    },
+    "efficiency": {
+      "avg_tokens_per_statement": 75.12,
+      "avg_processing_time": 0.6819807195663452,
+      "total_tokens": 3756,
+      "total_time": 34.09903597831726,
+      "estimated_cost": 0.007512
+    }
+  },
+  "detailed": {
+    "metrics": {
+      "accuracy": 0.5,
+      "precision": 0.4666666666666667,
+      "recall": 0.2916666666666667,
+      "f1": 0.358974358974359
+    },
+    "efficiency": {
+      "avg_tokens_per_statement": 149.4,
+      "avg_processing_time": 0.5337081813812256,
+      "total_tokens": 7470,
+      "total_time": 26.68540906906128,
+      "estimated_cost": 0.01494
+    }
+  },
+  "efficient": {
+    "metrics": {
+      "accuracy": 0.52,
+      "precision": 0.5,
+      "recall": 0.75,
+      "f1": 0.6
+    },
+    "efficiency": {
+      "avg_tokens_per_statement": 47.58,
+      "avg_processing_time": 0.5390141677856445,
+      "total_tokens": 2379,
+      "total_time": 26.950708389282227,
+      "estimated_cost": 0.004758
+    }
+  },
+  "few_shot": {
+    "metrics": {
+      "accuracy": 0.54,
+      "precision": 0.5333333333333333,
+      "recall": 0.3333333333333333,
+      "f1": 0.41025641025641024
+    },
+    "efficiency": {
+      "avg_tokens_per_statement": 106.28,
+      "avg_processing_time": 0.5902389430999756,
+      "total_tokens": 5314,
+      "total_time": 29.51194715499878,
+      "estimated_cost": 0.010628
+    }
+  }
+}

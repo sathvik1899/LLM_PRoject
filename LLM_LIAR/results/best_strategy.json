@@ -1,0 +1,18 @@
+{
+  "strategy_name": "efficient",
+  "binary": {
+    "metrics": {
+      "accuracy": 0.52,
+      "precision": 0.5,
+      "recall": 0.75,
+      "f1": 0.6
+    },
+    "efficiency": {
+      "avg_tokens_per_statement": 47.58,
+      "avg_processing_time": 0.5390141677856445,
+      "total_tokens": 2379,
+      "total_time": 26.950708389282227,
+      "estimated_cost": 0.004758
+    }
+  }
+}

@@ -1,0 +1,20 @@
+FAKE NEWS DETECTION - EVALUATION SUMMARY
+======================================
+
+CLASSIFICATION METRICS
+Accuracy: 0.6800
+Precision: 0.6622
+Recall: 0.8750
+F1 Score: 0.7538
+
+EFFICIENCY METRICS
+Average tokens per statement: 45.83
+Average processing time: 0.63 seconds
+Total tokens used: 4583
+Estimated cost: $0.0092
+
+ERROR ANALYSIS
+Errors for true label 'fake': 25
+Errors for true label 'real': 7
+
+For more details, see the full JSON report and visualization files.

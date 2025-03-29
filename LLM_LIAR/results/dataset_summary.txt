@@ -1,0 +1,7 @@
+LIAR Dataset Summary
+===================
+
+Total examples: 12791
+Training set: 10240 examples
+Test set: 1267 examples
+Validation set: 1284 examples
